@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/SupermarketMVC.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/controller/OrderController.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/model/OrderDetailModel.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/model/CustomerModel.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/model/OrderModel.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/view/OrderView.java</file>
+            <file>file:/E:/SM-MVC/supermarket.MVC/src/supermarket/mvc/controller/CustomerController.java</file>
+        </group>
+    </open-files>
+</project-private>
