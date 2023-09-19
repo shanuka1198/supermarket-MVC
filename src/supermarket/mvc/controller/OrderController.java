@@ -14,7 +14,7 @@ import supermarket.mvc.model.OrderModel;
 
 /**
  *
- * @author anjanathrishakya
+ * @author HP
  */
 public class OrderController {
 
