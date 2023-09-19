@@ -6,7 +6,7 @@ package supermarket.mvc.model;
 
 /**
  *
- * @author anjanathrishakya
+ * @author HP
  */
 public class ItemModel {
     
